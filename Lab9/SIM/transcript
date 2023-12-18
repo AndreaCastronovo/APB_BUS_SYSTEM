@@ -1,0 +1,120 @@
+# Compile of APB_BUS.sv was successful with warnings.
+# Compile of apb_interface_pwm.sv was successful.
+# Compile of apb_interface_serial_mul.sv failed with 4 errors.
+# Compile of APB_PWM.sv was successful.
+# Compile of APB_SERIAL_MULTIPLIER.sv failed with 1 errors.
+# Compile of counter_clr_en.sv was successful.
+# Compile of ff.sv was successful.
+# Compile of pwm_generator.sv was successful.
+# Compile of serial_multiplier.sv was successful.
+# Compile of TOP_LEVEL.sv failed with 1 errors.
+# Compile of tb_TOP_LEVEL.sv failed with 1 errors.
+# 11 compiles, 4 failed with 7 errors.
+# Compile of APB_BUS.sv was successful with warnings.
+# Compile of apb_interface_pwm.sv was successful.
+# Compile of apb_interface_serial_mul.sv was successful.
+# Compile of APB_PWM.sv was successful.
+# Compile of APB_SERIAL_MULTIPLIER.sv failed with 1 errors.
+# Compile of counter_clr_en.sv was successful.
+# Compile of ff.sv was successful.
+# Compile of pwm_generator.sv was successful.
+# Compile of serial_multiplier.sv was successful.
+# Compile of TOP_LEVEL.sv failed with 1 errors.
+# Compile of tb_TOP_LEVEL.sv failed with 1 errors.
+# 11 compiles, 3 failed with 3 errors.
+# Compile of APB_BUS.sv was successful with warnings.
+# Compile of apb_interface_pwm.sv was successful.
+# Compile of apb_interface_serial_mul.sv was successful.
+# Compile of APB_PWM.sv was successful.
+# Compile of APB_SERIAL_MULTIPLIER.sv was successful.
+# Compile of counter_clr_en.sv was successful.
+# Compile of ff.sv was successful.
+# Compile of pwm_generator.sv was successful.
+# Compile of serial_multiplier.sv was successful.
+# Compile of TOP_LEVEL.sv failed with 1 errors.
+# Compile of tb_TOP_LEVEL.sv failed with 1 errors.
+# 11 compiles, 2 failed with 2 errors.
+# Compile of APB_BUS.sv was successful with warnings.
+# Compile of apb_interface_pwm.sv was successful.
+# Compile of apb_interface_serial_mul.sv was successful.
+# Compile of APB_PWM.sv was successful.
+# Compile of APB_SERIAL_MULTIPLIER.sv was successful.
+# Compile of counter_clr_en.sv was successful.
+# Compile of ff.sv was successful.
+# Compile of pwm_generator.sv was successful.
+# Compile of serial_multiplier.sv was successful.
+# Compile of TOP_LEVEL.sv was successful.
+# Compile of tb_TOP_LEVEL.sv failed with 1 errors.
+# 11 compiles, 1 failed with 1 error.
+# Compile of APB_BUS.sv was successful with warnings.
+# Compile of apb_interface_pwm.sv was successful.
+# Compile of apb_interface_serial_mul.sv was successful.
+# Compile of APB_PWM.sv was successful.
+# Compile of APB_SERIAL_MULTIPLIER.sv was successful.
+# Compile of counter_clr_en.sv was successful.
+# Compile of ff.sv was successful.
+# Compile of pwm_generator.sv was successful.
+# Compile of serial_multiplier.sv was successful.
+# Compile of TOP_LEVEL.sv was successful.
+# Compile of tb_TOP_LEVEL.sv failed with 1 errors.
+# 11 compiles, 1 failed with 1 error.
+# Compile of APB_BUS.sv was successful with warnings.
+# Compile of apb_interface_pwm.sv was successful.
+# Compile of apb_interface_serial_mul.sv was successful.
+# Compile of APB_PWM.sv was successful.
+# Compile of APB_SERIAL_MULTIPLIER.sv was successful.
+# Compile of counter_clr_en.sv was successful.
+# Compile of ff.sv was successful.
+# Compile of pwm_generator.sv was successful.
+# Compile of serial_multiplier.sv was successful.
+# Compile of TOP_LEVEL.sv was successful.
+# Compile of tb_TOP_LEVEL.sv failed with 1 errors.
+# 11 compiles, 1 failed with 1 error.
+# Compile of APB_BUS.sv was successful with warnings.
+# Compile of apb_interface_pwm.sv was successful.
+# Compile of apb_interface_serial_mul.sv was successful.
+# Compile of APB_PWM.sv was successful.
+# Compile of APB_SERIAL_MULTIPLIER.sv was successful.
+# Compile of counter_clr_en.sv was successful.
+# Compile of ff.sv was successful.
+# Compile of pwm_generator.sv was successful.
+# Compile of serial_multiplier.sv was successful.
+# Compile of TOP_LEVEL.sv was successful.
+# Compile of tb_TOP_LEVEL.sv was successful.
+# 11 compiles, 0 failed with no errors.
+vsim -gui work.testbench -t ns
+# vsim -gui work.testbench -t ns 
+# Start time: 20:24:24 on Dec 14,2023
+# Loading sv_std.std
+# Loading work.testbench
+# Loading work.TOP_LEVEL
+# Loading work.APB_BUS
+# Loading work.APB_SERIAL_MULTIPLIER
+# Loading work.apb_interface_serial_mul
+# Loading work.ff
+# Loading work.serial_multiplier
+# Loading work.counter_clr_en
+# Loading work.APB_PWM
+# Loading work.apb_interface_pwm
+# Loading work.pwm_generator
+add wave -position insertpoint  \
+sim:/testbench/mul_result \
+sim:/testbench/PADDR \
+sim:/testbench/PCLK \
+sim:/testbench/PENABLE \
+sim:/testbench/PRDATA \
+sim:/testbench/PREADY \
+sim:/testbench/PRESETn \
+sim:/testbench/PSEL \
+sim:/testbench/PSLAVEERR \
+sim:/testbench/PWDATA \
+sim:/testbench/PWM \
+sim:/testbench/PWRITE
+run -all
+# Testbench complete.
+# ** Note: $stop    : C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/TB/tb_TOP_LEVEL.sv(295)
+#    Time: 2420 ns  Iteration: 0  Instance: /testbench
+# Break in Module testbench at C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/TB/tb_TOP_LEVEL.sv line 295
+quit -sim
+# End time: 21:47:42 on Dec 14,2023, Elapsed time: 1:23:18
+# Errors: 0, Warnings: 12

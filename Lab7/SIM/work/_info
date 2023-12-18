@@ -1,0 +1,212 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/andre/Desktop/LabDigitalElectronics/Lab6/SIM
+vapb_periph_load
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1702462795
+!i10b 1
+!s100 maT3L8S<Eh12>_>SCGY@G2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I3T;d>Fa5`K2B[FQQJb>WL2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SIM
+w1701080257
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/apb_periph_load.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/apb_periph_load.sv
+!i122 102
+L0 6 32
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1702462795.000000
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/apb_periph_load.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/apb_periph_load.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vapb_periph_store
+R0
+R1
+!i10b 1
+!s100 _k<]j>Vh<P;n2P_>?Fn>I3
+R2
+IOmWK]7A=6dLdSYh82R`IX0
+R3
+S1
+R4
+w1700586206
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/apb_periph_store.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/apb_periph_store.sv
+!i122 103
+L0 6 34
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/apb_periph_store.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/apb_periph_store.sv|
+!i113 1
+R7
+R8
+vAPB_PWM
+R0
+R1
+!i10b 1
+!s100 N0<PeY:6OPOfBN7_fgVDB2
+R2
+I6DoK2L[bah?g_ZP=<HS@63
+R3
+S1
+R4
+w1702462780
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/APB_PWM.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/APB_PWM.sv
+!i122 104
+L0 6 68
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/APB_PWM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/APB_PWM.sv|
+!i113 1
+R7
+R8
+n@a@p@b_@p@w@m
+vcounter_clr
+R0
+!s110 1700584412
+!i10b 1
+!s100 5Y<nHU^EClAoFccmcdF;N3
+R2
+Id_z8_K]LaKR`Pj[ZD4P1A1
+R3
+S1
+R4
+w1700584246
+Z9 8C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/counter_clr_en.sv
+Z10 FC:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/counter_clr_en.sv
+!i122 35
+Z11 L0 6 38
+R5
+r1
+!s85 0
+31
+!s108 1700584412.000000
+Z12 !s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/counter_clr_en.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/counter_clr_en.sv|
+!i113 1
+R7
+R8
+vcounter_clr_en
+R0
+R1
+!i10b 1
+!s100 ?INNiQjN2ZCCoee?]_E850
+R2
+In9`@e]DWJ09[zNdPkd4UE1
+R3
+S1
+R4
+w1700584513
+R9
+R10
+!i122 105
+R11
+R5
+r1
+!s85 0
+31
+R6
+R12
+R13
+!i113 1
+R7
+R8
+vff
+R0
+R1
+!i10b 1
+!s100 T2eBg0Y7P`me9];3IA>UV3
+R2
+ID2QG?8DaUFLBLO^Bef<LI2
+R3
+S1
+R4
+w1700580976
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/ff.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/ff.sv
+!i122 106
+L0 6 18
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/ff.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/ff.sv|
+!i113 1
+R7
+R8
+vpwm_generator
+R0
+R1
+!i10b 1
+!s100 LVM7Y<YRhW8@8;R3ci1m[0
+R2
+Ib]Ld9^=XbV[ZAGHC`JiPB0
+R3
+S1
+R4
+w1702462745
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/pwm_generator.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/pwm_generator.sv
+!i122 107
+L0 6 59
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/pwm_generator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/SYS_VERILOG/pwm_generator.sv|
+!i113 1
+R7
+R8
+vtestbench
+R0
+R1
+!i10b 1
+!s100 Gkki^55ZfU::2]omC4i7b1
+R2
+I@h[R^nI2gzCYUVdQzgDUC1
+R3
+S1
+R4
+w1702462577
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/TB/tb_apb_pwm.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab7/TB/tb_apb_pwm.sv
+!i122 108
+L0 7 238
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/TB/tb_apb_pwm.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab7/TB/tb_apb_pwm.sv|
+!i113 1
+R7
+R8

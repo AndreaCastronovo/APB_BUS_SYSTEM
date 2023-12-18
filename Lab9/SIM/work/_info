@@ -1,0 +1,290 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/andre/Desktop/LabDigitalElectronics/Lab6/SIM
+vAPB_BUS
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1702581847
+!i10b 1
+!s100 k_06Yi:@_agV93Ka:bKM=0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IN3S3aXLcj>O3jEjUXC4k?2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SIM
+w1702577042
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/APB_BUS.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/APB_BUS.sv
+!i122 54
+L0 6 73
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1702581847.000000
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/APB_BUS.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/APB_BUS.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+n@a@p@b_@b@u@s
+vapb_interface_pwm
+R0
+R1
+!i10b 1
+!s100 NOWI:86liDfeL2hF<e^<<1
+R2
+IFldB48_f7>00c;eOFaMeO3
+R3
+S1
+R4
+w1702577051
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/apb_interface_pwm.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/apb_interface_pwm.sv
+!i122 55
+L0 6 102
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/apb_interface_pwm.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/apb_interface_pwm.sv|
+!i113 1
+R7
+R8
+vapb_interface_serial_mul
+R0
+R1
+!i10b 1
+!s100 @R7C<GE=STbE^:WZ:OZ[`2
+R2
+Il_=<1XZH;aI<dgTNceQ^01
+R3
+S1
+R4
+w1702581192
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/apb_interface_serial_mul.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/apb_interface_serial_mul.sv
+!i122 56
+L0 6 87
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/apb_interface_serial_mul.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/apb_interface_serial_mul.sv|
+!i113 1
+R7
+R8
+vAPB_PWM
+R0
+R1
+!i10b 1
+!s100 AlXSi79HIeA6ASQlU^1?21
+R2
+I<<VXYGcX85BFnAQ3VkW<`2
+R3
+S1
+R4
+w1702577061
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/APB_PWM.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/APB_PWM.sv
+!i122 57
+L0 6 59
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/APB_PWM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/APB_PWM.sv|
+!i113 1
+R7
+R8
+n@a@p@b_@p@w@m
+vAPB_SERIAL_MULTIPLIER
+R0
+R1
+!i10b 1
+!s100 6QQ83Ii48_4ZEZTzia]YI1
+R2
+I=^mE=kgVhWdja87N_z^=V2
+R3
+S1
+R4
+w1702581219
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/APB_SERIAL_MULTIPLIER.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/APB_SERIAL_MULTIPLIER.sv
+!i122 58
+L0 6 60
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/APB_SERIAL_MULTIPLIER.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/APB_SERIAL_MULTIPLIER.sv|
+!i113 1
+R7
+R8
+n@a@p@b_@s@e@r@i@a@l_@m@u@l@t@i@p@l@i@e@r
+vcounter_clr_en
+R0
+Z9 !s110 1702581848
+!i10b 1
+!s100 ?INNiQjN2ZCCoee?]_E850
+R2
+IiNXF3UMJY>6jQl9TkHGIb2
+R3
+S1
+R4
+w1700584513
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/counter_clr_en.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/counter_clr_en.sv
+!i122 59
+L0 6 38
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/counter_clr_en.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/counter_clr_en.sv|
+!i113 1
+R7
+R8
+vff
+R0
+R9
+!i10b 1
+!s100 T2eBg0Y7P`me9];3IA>UV3
+R2
+I2I1oWA]zjG>;nKU2:<<U52
+R3
+S1
+R4
+w1700580976
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/ff.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/ff.sv
+!i122 60
+L0 6 18
+R5
+r1
+!s85 0
+31
+Z10 !s108 1702581848.000000
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/ff.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/ff.sv|
+!i113 1
+R7
+R8
+vpwm_generator
+R0
+R9
+!i10b 1
+!s100 leRoB=<51W?6PkGUJL_SF2
+R2
+IEWGfVL7a[bBm0UcoWnbXm0
+R3
+S1
+R4
+w1702577080
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/pwm_generator.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/pwm_generator.sv
+!i122 61
+L0 6 62
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/pwm_generator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/pwm_generator.sv|
+!i113 1
+R7
+R8
+vserial_multiplier
+R0
+R9
+!i10b 1
+!s100 ^m][fLCP5NXK>DfjPLJ2n0
+R2
+Id9]YjF?f2Y_;1[;j=JT>L2
+R3
+S1
+R4
+w1702335155
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/serial_multiplier.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/serial_multiplier.sv
+!i122 62
+L0 6 108
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/serial_multiplier.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/serial_multiplier.sv|
+!i113 1
+R7
+R8
+vtestbench
+R0
+R9
+!i10b 1
+!s100 >b?lAA0RH^I@Xloz<OZ@82
+R2
+InBd:F8J8ChjO6?cU>iJPh1
+R3
+S1
+R4
+w1702581841
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/TB/tb_TOP_LEVEL.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab9/TB/tb_TOP_LEVEL.sv
+!i122 64
+L0 7 292
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/TB/tb_TOP_LEVEL.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/TB/tb_TOP_LEVEL.sv|
+!i113 1
+R7
+R8
+vTOP_LEVEL
+R0
+R9
+!i10b 1
+!s100 1@?dA]BBf6<6JOcmIUa>10
+R2
+I`4la@6i097]g]M`k30b3R3
+R3
+S1
+R4
+w1702581240
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/TOP_LEVEL.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/TOP_LEVEL.sv
+!i122 63
+L0 6 86
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/TOP_LEVEL.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab9/SYS_VERILOG/TOP_LEVEL.sv|
+!i113 1
+R7
+R8
+n@t@o@p_@l@e@v@e@l

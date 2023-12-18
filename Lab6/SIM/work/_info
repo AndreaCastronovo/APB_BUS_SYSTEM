@@ -1,0 +1,111 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vcounter_clr
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1699270974
+!i10b 1
+!s100 S2l8;ScDEjH5]^HS_F=1F3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IkQo7J2]O>5eVAG39BLWBi0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dC:/Users/andre/Desktop/LabDigitalElectronics/Lab6/SIM
+w1699267241
+Z4 8C:/Users/andre/Desktop/LabDigitalElectronics/Lab6/SYS_VERILOG/counter_clr_en.sv
+Z5 FC:/Users/andre/Desktop/LabDigitalElectronics/Lab6/SYS_VERILOG/counter_clr_en.sv
+!i122 6
+Z6 L0 6 40
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1699270974.000000
+Z8 !s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab6/SYS_VERILOG/counter_clr_en.sv|
+Z9 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab6/SYS_VERILOG/counter_clr_en.sv|
+!i113 1
+Z10 o-work work -sv
+Z11 tCvgOpt 0
+vcounter_clr_en
+R0
+Z12 !s110 1702335160
+!i10b 1
+!s100 :HaULfJ4AlFlA`YQ9LSkS2
+R1
+I7DRUDHgh@055Koi@Fe1I01
+R2
+S1
+R3
+w1702310894
+R4
+R5
+!i122 33
+R6
+R7
+r1
+!s85 0
+31
+Z13 !s108 1702335160.000000
+R8
+R9
+!i113 1
+R10
+R11
+vserial_multiplier
+R0
+R12
+!i10b 1
+!s100 ^m][fLCP5NXK>DfjPLJ2n0
+R1
+IJA33PcJgZ=k1I_9azhLWD1
+R2
+S1
+R3
+w1702335155
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab6/SYS_VERILOG/serial_multiplier.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab6/SYS_VERILOG/serial_multiplier.sv
+!i122 34
+L0 6 108
+R7
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab6/SYS_VERILOG/serial_multiplier.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab6/SYS_VERILOG/serial_multiplier.sv|
+!i113 1
+R10
+R11
+vtestbench
+R0
+!s110 1702335161
+!i10b 1
+!s100 kVh`0HUG@<YN`O6XWaG<63
+R1
+I?0LdAEfW]n1@AVf>R6@zf3
+R2
+S1
+R3
+w1702335011
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab6/TB/tb_serial_multiplier.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab6/TB/tb_serial_multiplier.sv
+!i122 35
+L0 7 73
+R7
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab6/TB/tb_serial_multiplier.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab6/TB/tb_serial_multiplier.sv|
+!i113 1
+R10
+R11
