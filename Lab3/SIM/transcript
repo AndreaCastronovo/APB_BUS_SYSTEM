@@ -1,0 +1,55 @@
+# Compile of vending.sv was successful.
+# Compile of tb_vending.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_vending
+# vsim -gui work.tb_vending 
+# Start time: 22:14:58 on Dec 07,2023
+# Loading sv_std.std
+# Loading work.tb_vending
+# Loading work.vending
+add wave -position insertpoint sim:/tb_vending/*
+quit -sim
+# End time: 22:16:37 on Dec 07,2023, Elapsed time: 0:01:39
+# Errors: 0, Warnings: 2
+# Compile of vending.sv was successful.
+# Compile of tb_vending.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_vending
+# vsim -gui work.tb_vending 
+# Start time: 22:16:50 on Dec 07,2023
+# Loading sv_std.std
+# Loading work.tb_vending
+# Loading work.vending
+add wave -position insertpoint sim:/tb_vending/*
+run -all
+# ** Note: $stop    : C:/Users/andre/Desktop/LabDigitalElectronics/Lab3/TB/tb_vending.sv(68)
+#    Time: 230 ns  Iteration: 0  Instance: /tb_vending
+# Break in Module tb_vending at C:/Users/andre/Desktop/LabDigitalElectronics/Lab3/TB/tb_vending.sv line 68
+add wave -position insertpoint sim:/tb_vending/DUT/*
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Note: $stop    : C:/Users/andre/Desktop/LabDigitalElectronics/Lab3/TB/tb_vending.sv(68)
+#    Time: 230 ns  Iteration: 0  Instance: /tb_vending
+# Break in Module tb_vending at C:/Users/andre/Desktop/LabDigitalElectronics/Lab3/TB/tb_vending.sv line 68
+quit -sim
+# End time: 22:22:50 on Dec 07,2023, Elapsed time: 0:06:00
+# Errors: 0, Warnings: 1
+# Compile of vending.sv was successful.
+# Compile of tb_vending.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_vending
+# vsim -gui work.tb_vending 
+# Start time: 22:23:17 on Dec 07,2023
+# Loading sv_std.std
+# Loading work.tb_vending
+# Loading work.vending
+add wave -position insertpoint sim:/tb_vending/*
+add wave -position insertpoint sim:/tb_vending/DUT/*
+run -all
+# ** Note: $stop    : C:/Users/andre/Desktop/LabDigitalElectronics/Lab3/TB/tb_vending.sv(69)
+#    Time: 230 ns  Iteration: 0  Instance: /tb_vending
+# Break in Module tb_vending at C:/Users/andre/Desktop/LabDigitalElectronics/Lab3/TB/tb_vending.sv line 69
+quit -sim
+# End time: 22:26:05 on Dec 07,2023, Elapsed time: 0:02:48
+# Errors: 0, Warnings: 2

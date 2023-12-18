@@ -1,0 +1,15 @@
+C:/Users/andre/Desktop/LabDigitalElectronics/Lab3/SYS_VERILOG/vending.sv {1 {vlog -work work -sv -stats=none C:/Users/andre/Desktop/LabDigitalElectronics/Lab3/SYS_VERILOG/vending.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module vending
+
+Top level modules:
+	vending
+
+} {} {}} C:/Users/andre/Desktop/LabDigitalElectronics/Lab3/TB/tb_vending.sv {1 {vlog -work work -sv -stats=none C:/Users/andre/Desktop/LabDigitalElectronics/Lab3/TB/tb_vending.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_vending
+
+Top level modules:
+	tb_vending
+
+} {} {}}

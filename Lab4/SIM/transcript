@@ -1,0 +1,24 @@
+# Compile of counter_clr.sv was successful.
+# Compile of traffic_light.sv was successful.
+# Compile of tb_traffic_light.sv was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 15:04:15 on Dec 08,2023
+# Loading sv_std.std
+# Loading work.testbench
+# Loading work.traffic_light
+# Loading work.counter_clr
+add wave -position insertpoint sim:/testbench/*
+add wave -position insertpoint sim:/testbench/DUT/*
+run -allù
+# Unknown option: allù
+# ** UI-Msg: (vsim-4005) Invalid argument '-allù'.
+# Usage: run [<timesteps> [<time_units>]] | -all | -continue | -next | -step | -over | -out | -init | -final
+run -all
+# ** Note: $stop    : C:/Users/andre/Desktop/LabDigitalElectronics/Lab4/TB/tb_traffic_light.sv(40)
+#    Time: 6400 ns  Iteration: 1  Instance: /testbench
+# Break in Module testbench at C:/Users/andre/Desktop/LabDigitalElectronics/Lab4/TB/tb_traffic_light.sv line 40
+quit -sim
+# End time: 15:09:19 on Dec 08,2023, Elapsed time: 0:05:04
+# Errors: 0, Warnings: 2

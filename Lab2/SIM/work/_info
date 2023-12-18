@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vflip_flop
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1701961220
+!i10b 1
+!s100 ?R?QK:RhSJ1DQ4ozK>W`N3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IPJZ^O01FEJg7X8T[DImMU1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/andre/Desktop/LabDigitalElectronics/Lab2/SIM
+w1701960900
+8C:\Users\andre\Desktop\LabDigitalElectronics\Lab2\SYS_VERILOG\flip_flop.sv
+FC:\Users\andre\Desktop\LabDigitalElectronics\Lab2\SYS_VERILOG\flip_flop.sv
+!i122 50
+L0 6 15
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1701961220.000000
+!s107 C:\Users\andre\Desktop\LabDigitalElectronics\Lab2\SYS_VERILOG\flip_flop.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\andre\Desktop\LabDigitalElectronics\Lab2\SYS_VERILOG\flip_flop.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vshift_register
+R0
+R1
+!i10b 1
+!s100 3f;_LMHZ=:b?V3iY97]4f0
+R2
+I449;[IdcZDdUMfH?CkR3K2
+R3
+S1
+R4
+w1701959888
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab2/SYS_VERILOG/shift_register.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab2/SYS_VERILOG/shift_register.sv
+!i122 49
+L0 6 70
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab2/SYS_VERILOG/shift_register.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab2/SYS_VERILOG/shift_register.sv|
+!i113 1
+R7
+R8
+vtb_shift_register
+R0
+R1
+!i10b 1
+!s100 @9k4f_jnZSCP5?Oe<dZKR2
+R2
+Io3So4Dhe_B:gm]O2GM[H_0
+R3
+S1
+R4
+w1701960355
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab2/TB/tb_shift_register.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab2/TB/tb_shift_register.sv
+!i122 48
+L0 7 50
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab2/TB/tb_shift_register.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab2/TB/tb_shift_register.sv|
+!i113 1
+R7
+R8

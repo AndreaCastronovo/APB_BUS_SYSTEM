@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vcounter_clr
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1702044241
+!i10b 1
+!s100 nDPHLlhd41;aa]=[^_0>d3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Iz`Pai6a1>j?lGB:C?N44T0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/andre/Desktop/LabDigitalElectronics/Lab4/SIM
+w1702040993
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab4/SYS_VERILOG/counter_clr.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab4/SYS_VERILOG/counter_clr.sv
+!i122 25
+L0 1 36
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1702044241.000000
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab4/SYS_VERILOG/counter_clr.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab4/SYS_VERILOG/counter_clr.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vtestbench
+R0
+R1
+!i10b 1
+!s100 ^<621G]=^FSb50a]FoHNE0
+R2
+I3;Cf_CZ4VLJ?dfKdi=55]0
+R3
+S1
+R4
+w1702044194
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab4/TB/tb_traffic_light.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab4/TB/tb_traffic_light.sv
+!i122 27
+L0 7 37
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab4/TB/tb_traffic_light.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab4/TB/tb_traffic_light.sv|
+!i113 1
+R7
+R8
+vtraffic_light
+R0
+R1
+!i10b 1
+!s100 NTjoH>Z3[G2nnWd8a00=L3
+R2
+I=VcfhRC1Nm`DaoL=I;zBE3
+R3
+S1
+R4
+w1702040977
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab4/SYS_VERILOG/traffic_light.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab4/SYS_VERILOG/traffic_light.sv
+!i122 26
+L0 6 66
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab4/SYS_VERILOG/traffic_light.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab4/SYS_VERILOG/traffic_light.sv|
+!i113 1
+R7
+R8

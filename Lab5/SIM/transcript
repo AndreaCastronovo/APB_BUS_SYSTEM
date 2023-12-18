@@ -1,0 +1,52 @@
+# Compile of b2gray.sv was successful.
+# Compile of counter_en_updown.sv was successful.
+# Compile of gray_counter.sv was successful.
+# Compile of tb_gray_counter.sv was successful.
+# Compile of b2hot_encod.sv was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui work.testbench -t ns
+# vsim -gui work.testbench -t ns 
+# Start time: 15:41:51 on Dec 11,2023
+# Loading sv_std.std
+# Loading work.testbench
+# Loading work.gray_counter
+# Loading work.counter_en_updown
+# Loading work.b2gray
+# Loading work.b2hot_encod
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'DUT'.  Expected 6, found 5.
+#    Time: 0 ns  Iteration: 0  Instance: /testbench/DUT File: C:/Users/andre/Desktop/LabDigitalElectronics/Lab5/TB/tb_gray_counter.sv Line: 16
+# ** Warning: (vsim-3722) C:/Users/andre/Desktop/LabDigitalElectronics/Lab5/TB/tb_gray_counter.sv(16): [TFMPC] - Missing connection for port 'out_hot'.
+add wave -position insertpoint sim:/testbench/*
+quit -sim
+# End time: 15:45:48 on Dec 11,2023, Elapsed time: 0:03:57
+# Errors: 0, Warnings: 4
+# Compile of b2gray.sv was successful.
+# Compile of counter_en_updown.sv was successful.
+# Compile of gray_counter.sv was successful.
+# Compile of tb_gray_counter.sv failed with 1 errors.
+# Compile of b2hot_encod.sv was successful.
+# 5 compiles, 1 failed with 1 error.
+# Compile of b2gray.sv was successful.
+# Compile of counter_en_updown.sv was successful.
+# Compile of gray_counter.sv was successful.
+# Compile of tb_gray_counter.sv was successful.
+# Compile of b2hot_encod.sv was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui -t ns work.testbench
+# vsim -gui -t ns work.testbench 
+# Start time: 15:48:05 on Dec 11,2023
+# Loading sv_std.std
+# Loading work.testbench
+# Loading work.gray_counter
+# Loading work.counter_en_updown
+# Loading work.b2gray
+# Loading work.b2hot_encod
+add wave -position insertpoint sim:/testbench/*
+add wave -position insertpoint sim:/testbench/DUT/*
+run -all
+# ** Note: $stop    : C:/Users/andre/Desktop/LabDigitalElectronics/Lab5/TB/tb_gray_counter.sv(58)
+#    Time: 210 ns  Iteration: 0  Instance: /testbench
+# Break in Module testbench at C:/Users/andre/Desktop/LabDigitalElectronics/Lab5/TB/tb_gray_counter.sv line 58
+quit -sim
+# End time: 15:51:21 on Dec 11,2023, Elapsed time: 0:03:16
+# Errors: 0, Warnings: 3

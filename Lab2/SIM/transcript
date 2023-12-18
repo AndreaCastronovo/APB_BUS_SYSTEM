@@ -1,0 +1,19 @@
+# Compile of tb_shift_register.sv was successful.
+# Compile of shift_register.sv was successful.
+# Compile of flip_flop.sv was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.tb_shift_register
+# vsim -gui work.tb_shift_register 
+# Start time: 16:00:30 on Dec 07,2023
+# Loading sv_std.std
+# Loading work.tb_shift_register
+# Loading work.shift_register
+# Loading work.flip_flop
+add wave -position insertpoint sim:/tb_shift_register/*
+run -all
+# ** Note: $stop    : C:/Users/andre/Desktop/LabDigitalElectronics/Lab2/TB/tb_shift_register.sv(54)
+#    Time: 90 ns  Iteration: 0  Instance: /tb_shift_register
+# Break in Module tb_shift_register at C:/Users/andre/Desktop/LabDigitalElectronics/Lab2/TB/tb_shift_register.sv line 54
+quit -sim
+# End time: 16:01:35 on Dec 07,2023, Elapsed time: 0:01:05
+# Errors: 0, Warnings: 2

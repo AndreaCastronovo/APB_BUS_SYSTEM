@@ -1,0 +1,24 @@
+# Compile of full_adder_beh.sv was successful.
+# Compile of ripple_carry_adder.sv was successful.
+# Compile of tb_ripple_carry_adder.sv was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.tb_ripple_carry_adder
+# vsim -gui work.tb_ripple_carry_adder 
+# Start time: 20:28:58 on Dec 06,2023
+# Loading sv_std.std
+# Loading work.tb_ripple_carry_adder
+# Loading work.ripple_carry_adder
+# Loading work.full_adder_beh
+add wave -position insertpoint  \
+sim:/tb_ripple_carry_adder/A \
+sim:/tb_ripple_carry_adder/B \
+sim:/tb_ripple_carry_adder/CIN \
+sim:/tb_ripple_carry_adder/COUT \
+sim:/tb_ripple_carry_adder/SUM
+run -all
+# ** Note: $stop    : C:/Users/andre/Desktop/LabDigitalElectronics/Lab1/TB/tb_ripple_carry_adder.sv(38)
+#    Time: 20 ns  Iteration: 0  Instance: /tb_ripple_carry_adder
+# Break in Module tb_ripple_carry_adder at C:/Users/andre/Desktop/LabDigitalElectronics/Lab1/TB/tb_ripple_carry_adder.sv line 38
+quit -sim
+# End time: 20:33:23 on Dec 06,2023, Elapsed time: 0:04:25
+# Errors: 0, Warnings: 2

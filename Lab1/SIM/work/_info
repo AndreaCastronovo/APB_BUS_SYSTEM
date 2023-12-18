@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/andre/Desktop/LabDigitalElectronics/Lab1
+vfull_adder_beh
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1701890917
+!i10b 1
+!s100 OPooe3cJD[;aR`SNA]Vg20
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IjLWT^jDg=zC=PP>R12MOh0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dC:/Users/andre/Desktop/LabDigitalElectronics/Lab1/SIM
+w1701890586
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab1/SYS_VERILOG/full_adder_beh.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab1/SYS_VERILOG/full_adder_beh.sv
+!i122 17
+L0 6 13
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1701890917.000000
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab1/SYS_VERILOG/full_adder_beh.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab1/SYS_VERILOG/full_adder_beh.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vripple_carry_adder
+R0
+Z8 !s110 1701890918
+!i10b 1
+!s100 zo3RKnM@5N_En2dGgFWWa0
+R1
+I=:HRlPjAh6CQ6eSkG^C<G3
+R2
+S1
+R3
+w1701890580
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab1/SYS_VERILOG/ripple_carry_adder.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab1/SYS_VERILOG/ripple_carry_adder.sv
+!i122 18
+L0 6 22
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab1/SYS_VERILOG/ripple_carry_adder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab1/SYS_VERILOG/ripple_carry_adder.sv|
+!i113 1
+R6
+R7
+vtb_ripple_carry_adder
+R0
+R8
+!i10b 1
+!s100 3cak`CUbdSB7JX_RFIX:?1
+R1
+I>Z@T_^k::iL15VHg0YQ1^3
+R2
+S1
+R3
+w1701890582
+8C:/Users/andre/Desktop/LabDigitalElectronics/Lab1/TB/tb_ripple_carry_adder.sv
+FC:/Users/andre/Desktop/LabDigitalElectronics/Lab1/TB/tb_ripple_carry_adder.sv
+!i122 19
+L0 7 34
+R4
+r1
+!s85 0
+31
+!s108 1701890918.000000
+!s107 C:/Users/andre/Desktop/LabDigitalElectronics/Lab1/TB/tb_ripple_carry_adder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/andre/Desktop/LabDigitalElectronics/Lab1/TB/tb_ripple_carry_adder.sv|
+!i113 1
+R6
+R7
